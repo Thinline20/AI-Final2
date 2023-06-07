@@ -1,0 +1,17 @@
+.vscode/
+__pycache__/
+data/cifar-10-batches-py/
+data/BSDS300/
+data/BSD100_SR/
+data/*.zip
+data/image_SRF_4
+data/BSR
+data/DIV2k*
+data/cifar-10-python.tar.gz
+
+*.pth
+*.safetensors
+
+results/*/*
+results/*.txt
+*old*
